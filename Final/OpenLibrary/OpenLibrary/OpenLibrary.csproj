@@ -46,14 +46,71 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmBook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmBook.Designer.cs">
+      <DependentUpon>frmBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookType.Designer.cs">
+      <DependentUpon>frmBookType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChanPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChanPassword.Designer.cs">
+      <DependentUpon>frmChanPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPublishingCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPublishingCompany.Designer.cs">
+      <DependentUpon>frmPublishingCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserManagement.Designer.cs">
+      <DependentUpon>frmUserManagement.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBook.resx">
+      <DependentUpon>frmBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookType.resx">
+      <DependentUpon>frmBookType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChanPassword.resx">
+      <DependentUpon>frmChanPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPublishingCompany.resx">
+      <DependentUpon>frmPublishingCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserManagement.resx">
+      <DependentUpon>frmUserManagement.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +119,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +133,63 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Key2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\IconError.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Password protection.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\jabber_group.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\turnoff.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\gnome_application_exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\book2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\book.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Custom-Icon-Design-Pretty-Office-2-Personal-information.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Treetog-Junior-Document-help.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Key.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Scan.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\exit %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Edit666.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\stop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\EDIT.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\plus.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Google-Noto-Emoji-Travel-Places-42496-school.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

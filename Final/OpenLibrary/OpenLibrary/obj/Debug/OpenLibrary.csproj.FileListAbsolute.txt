@@ -1,0 +1,16 @@
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\bin\Debug\OpenLibrary.exe.config
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\bin\Debug\OpenLibrary.exe
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\bin\Debug\OpenLibrary.pdb
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.Properties.Resources.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.csproj.GenerateResource.cache
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.exe
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.pdb
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmLogin.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmMain.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmChanPassword.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmUserManagement.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmBook.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmBookType.resources
+C:\Users\hung\Desktop\Viet\OOAD\Github\OOAD_OpenLibrary\Final\OpenLibrary\OpenLibrary\obj\Debug\OpenLibrary.frmPublishingCompany.resources

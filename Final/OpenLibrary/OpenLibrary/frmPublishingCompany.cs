@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace OpenLibrary
 {
-    public partial class Form1 : Form
+    public partial class frmPublishingCompany : Form
     {
-        public Form1()
+        public frmPublishingCompany()
         {
             InitializeComponent();
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Hide();
         }
     }
 }
